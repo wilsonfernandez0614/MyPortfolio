@@ -6,10 +6,10 @@ This portfolio showcases my web projects, including HTML, CSS, and JavaScript ex
 
 ## Projects
 
-- Survey Form  
-- Sample Project  
-- Another Project
+- [Project 1](Project1/index.html)
+- [Project 2](Project2/index.html)
+- [Project 3](Project3/index.html)
 
 ## How to view
 
-Open the `index.html` file in a browser to see the homepage.
+Click the project links above to see each project in your browser.
